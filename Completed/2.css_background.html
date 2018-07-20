@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Background Example:</title>
+    <style>
+        body{
+            font-family: "Comic Sans MS";
+        }
+        h1{
+            color: slateblue;
+            background-color: lightgreen;
+            width: 400px;
+            text-align: center;
+        }
+        p{
+            width: 400px;
+            background-image: url("img/painting.jpg");
+            background-size: cover;
+        }
+        div{
+            width: 600px;
+            height: 300px;
+            background: lightgreen;
+        }
+        #bg-position{
+            background-image: url("img/plant.jpg");
+            background-repeat: no-repeat;
+            background-position: top right;
+        }
+        #bg-fixed{
+            background: lightgreen url("img/nature.jpeg") fixed;
+        }
+        #bg-repeat{
+           background: lightgreen url("img/plant.jpg") repeat-x;
+        }
+        #bg-scroll{
+            background: lightgreen url("img/nature.jpeg") scroll;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Learning css Background</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, autem dignissimos ducimus eius expedita ipsa mollitia quaerat quidem repellendus soluta? Architecto atque cum nostrum repudiandae rerum voluptatibus? Ab adipisci commodi corporis exercitationem id inventore iure, laudantium quis tempore. Error hic officia quis saepe vitae! Dolor dolorum magni maiores nihil officia!</p>
+    <h1>Background Position</h1>
+            <div id="bg-position"></div>
+    <h1>Background Fixed</h1>
+            <div id="bg-fixed"></div>
+    <h1>Background Fixed</h1>
+            <div id="bg-scroll"></div>
+    <h1>Background Repeat</h1>
+            <div id="bg-repeat"></div>
+
+</body>
+</html>
