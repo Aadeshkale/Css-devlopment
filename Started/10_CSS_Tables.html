@@ -7,12 +7,42 @@
         body{
             font-family: "Comic Sans MS", sans-serif;
         }
+        table,th,td{
+
+
+            padding: 10px;
+            text-align: center;
+            font-size: 20px;
+
+        }
+        table{
+            width: 100%;
+        }
+        th{
+            background-color: #214328;
+            color: white;
+
+        }
+        tr:nth-child(even){
+            background-color: #4CAF50;
+        }
+        tr:nth-child(odd){
+            background-color: yellowgreen;
+        }
+        th,td{
+            border-radius: 50px;
+        }
+        td:hover{
+            background-color: lightseagreen;
+            cursor: pointer;
+        }
+
     </style>
 </head>
 <body>
 
     <!-- CUSTOM TABLE -->
-    <table id="custom">
+    <table>
         <tr>
             <th>Emp Name</th>
             <th>Designation</th>
