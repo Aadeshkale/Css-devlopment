@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37c016c6-be74-454c-91e6-eda9a59e8c52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/12.css_box model.html" afterPath="$PROJECT_DIR$/Completed/12.css_box model.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/13_CSS_Display.html" afterPath="$PROJECT_DIR$/Started/13_CSS_Display.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/14_CSS_Float.html" afterPath="$PROJECT_DIR$/Started/14_CSS_Float.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html" afterPath="$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" afterPath="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/17_CSS_DropDown.html" afterPath="$PROJECT_DIR$/Started/17_CSS_DropDown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" afterPath="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/19_CSS_Tooltip.html" afterPath="$PROJECT_DIR$/Started/19_CSS_Tooltip.html" />
-    </list>
+    <list default="true" id="37c016c6-be74-454c-91e6-eda9a59e8c52" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="13.css_display_model.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Completed/13.css_display_model.html">
+      <file leaf-file-name="14_CSS_Float.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Started/14_CSS_Float.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="204">
+              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13_CSS_Display.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Started/13_CSS_Display.html">
+      <file leaf-file-name="14.css_float.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Completed/14.css_float.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="84" column="7" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +83,7 @@
         <option value="$PROJECT_DIR$/Started/19_CSS_Tooltip.html" />
         <option value="$PROJECT_DIR$/Started/13_CSS_Display.html" />
         <option value="$PROJECT_DIR$/Completed/13.css_display_model.html" />
+        <option value="$PROJECT_DIR$/Completed/14.css_float.html" />
       </list>
     </option>
   </component>
@@ -201,12 +192,12 @@
       <workItem from="1532351083295" duration="9832000" />
       <workItem from="1532364714772" duration="763000" />
       <workItem from="1532428538298" duration="5903000" />
-      <workItem from="1532438637918" duration="2616000" />
+      <workItem from="1532438637918" duration="4278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60928000" />
+    <option name="totallyTimeSpent" value="62590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -259,13 +250,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Started/04_CSS_Margins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Started/Practice.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -518,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Started/14_CSS_Float.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -571,8 +548,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Completed/13.css_display_model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="357">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/14_CSS_Float.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/14.css_float.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
