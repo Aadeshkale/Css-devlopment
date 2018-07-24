@@ -8,6 +8,40 @@
     <style>
         body{
             font-family: Arial, sans-serif;
+            margin: 0px;
+        }
+        nav{
+            background-color: orange;
+            overflow: hidden; // fix background color
+             position: fixed;
+            top:0px;
+            width: 100%;
+        }
+        nav ul{
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+
+        }
+        nav ul li{
+            float: left; //hides background color
+        }
+        nav ul li a{
+            text-decoration: none;
+            color: black;
+            padding: 12px 25px;
+            display: inline-block;
+            font-size: 18px;
+
+        }
+        nav ul li a:hover{
+            background-color: orangered;
+            color: white;
+            border-radius: 50px;
+        }
+        .mainContent{
+            padding: 20px;
+
         }
     </style>
 </head>
@@ -16,19 +50,19 @@
     <nav>
         <ul>
             <li>
-                <a href="#" class="active">Home</a>
+                <a href="#" class="active"><i class="fa fa-home"></i> Home</a>
             </li>
             <li>
-                <a href="#">About Us</a>
+                <a href="#"><i class="fa fa-address-badge"></i> About Us</a>
             </li>
             <li>
-                <a href="#">Contact Us</a>
+                <a href="#"><i class="fa fa-envelope"><i> Contact Us</a>
             </li>
             <li>
-                <a href="#">Careers</a>
+                <a href="#"><i class="fa fa fa-graduation-cap"></i> Careers</a>
             </li>
             <li>
-                <a href="#">Courses</a>
+                <a href="#"><i class="fa fa-book"></i> Courses</a>
             </li>
         </ul>
     </nav>

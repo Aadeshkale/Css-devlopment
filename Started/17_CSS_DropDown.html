@@ -9,6 +9,38 @@
         body{
             font-family: Arial, sans-serif;
         }
+        .dropdown_button{
+            background-color: orangered;
+            color: white;
+            border: none;
+            font-size: 30px;
+            padding: 14px 55px;
+        }
+        .dropdown_list{
+            background-color: lightsalmon;
+            position: absolute;
+            width: 253px;
+            text-align: center;
+            display: none; to hide this
+        }
+        .dropdown_list a{
+            display: block;
+            text-decoration: none;
+            color: black;
+            padding: 14px 25px;
+            font-size: 18px;
+        }
+        .dropdown_list a:hover{
+            background-color: lightcoral;
+            color: white;
+        }
+        .dropdown:hover .dropdown_list{
+           display: block;
+        }.dropdown{
+            background: yellow;
+            float: left; // to fix the bug
+        }
+
     </style>
 </head>
 <body>
