@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Verticle</title>
+    <style>
+        body{
+            font-family: "Comic Sans MS",sans-serif;
+        }
+        #verticlenav{
+            margin: 0;
+            padding: 0;
+
+        }
+        #verticlenav ul{
+            list-style-type: none;
+            border: solid #3254e6;
+            float: left;
+            width: 180px;
+            font-size: 25px;
+            margin: 0;
+            padding: 10px;
+            list-style-type: none;
+        }
+        #verticlenav ul li a {
+            text-decoration: none;
+            list-style-type: none;
+            color: green;
+            padding: 14px 20px;
+            display: block;
+            text-align: center;
+        }
+        #verticlenav ul li:nth-child(even){
+            background: lightblue ;
+            color: white;
+            border-radius: 100%;
+        }
+        #verticlenav ul li:nth-child(odd){
+            background: lightgreen ;
+            color: white;
+            border-radius: 50px;
+        }
+        #verticlenav ul li a:hover{
+            background: orange ;
+            color: white;
+            border-radius: inherit;
+            box-shadow: 0 0 5px 2px red;
+        }
+        #verticlenav ul li{
+            margin: 3px;
+
+        }
+    </style>
+</head>
+<body>
+    <aside id="verticlenav">
+        <ul>
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Product</a>
+            </li>
+            <li>
+                <a href="#">Series</a>
+            </li>
+            <li>
+                <a href="#">News</a>
+            </li>
+            <li>
+                <a href="#">About us</a>
+            </li>
+            <li>
+                <a href="#">FAQ</a>
+            </li>
+        </ul>
+    </aside>
+
+</body>
+</html>
