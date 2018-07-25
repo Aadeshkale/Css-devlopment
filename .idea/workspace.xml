@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c016c6-be74-454c-91e6-eda9a59e8c52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/17_CSS_DropDown.html" afterPath="$PROJECT_DIR$/Started/17_CSS_DropDown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/17.css_dropDown.html" afterPath="$PROJECT_DIR$/Completed/17.css_dropDown.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="17.css_dropDown.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Completed/17.css_dropDown.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-52">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="186">
+              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -203,12 +202,12 @@
       <workItem from="1532364714772" duration="763000" />
       <workItem from="1532428538298" duration="5903000" />
       <workItem from="1532438637918" duration="12747000" />
-      <workItem from="1532495522582" duration="9582000" />
+      <workItem from="1532495522582" duration="9796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80641000" />
+    <option name="totallyTimeSpent" value="80855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -556,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Completed/17.css_dropDown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="186">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding />
         </state>
       </provider>
