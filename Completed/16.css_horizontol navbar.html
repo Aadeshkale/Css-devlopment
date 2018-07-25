@@ -2,72 +2,75 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Horizontal Navigation</title>
+    <title>CSS Horizontal navbar</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bootstrap/css/font-awesome.min.css">
     <style>
         body{
-            font-family: Arial, sans-serif;
-            margin: 0px;
+            margin: 0;
         }
         nav{
+            top: 0px;
             background-color: orange;
-            overflow: hidden; // fix background color
-            position: fixed;
-            top:0px;
             width: 100%;
+            overflow: hidden;
+            position: fixed;
         }
         nav ul{
             list-style-type: none;
-            margin: 0px;
-            padding: 0px;
+            margin: 0;
+            padding: 0;
 
         }
         nav ul li{
-            float: left; //hides background color
+            float: left;
         }
         nav ul li a{
             text-decoration: none;
-            color: black;
-            padding: 12px 25px;
-            display: inline-block;
-            font-size: 18px;
-
-        }
-        nav ul li a:hover{
-            background-color: orangered;
+            font-family: "Comic Sans MS";
             color: white;
+            padding: 12px 25px ;
+            font-size: 18px;
+            display: inline-block;
+        }
+        nav ul li a:hover {
+            background-color: orangered;
+            color: black;
             border-radius: 50px;
         }
-        .mainContent{
-            padding: 20px;
-
+        .maincontent{
+           padding: 20px;
         }
+
     </style>
 </head>
 <body>
 
-    <nav>
-        <ul>
-            <li>
-                <a href="#" class="active"><i class="fa fa-home"></i> Home</a>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-address-badge"></i> About Us</a>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-envelope"></i> Contact Us</a>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa fa-graduation-cap"></i> Careers</a>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-book"></i> Courses</a>
-            </li>
-        </ul>
-    </nav>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#"><i class="fa fa-home"></i> Home</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-cog"></i> Product</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-book"></i> Services</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-book"></i> Carier</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-book"></i> News</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-question"></i> FAQ</a>
+                </li>
+            </ul>
+        </nav>
+        <br>
 
-    <div class="mainContent">
+
+    <div class="maincontent">
         <h1>Welcome to our page</h1>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus nemo nulla numquam repellendus soluta. A adipisci aliquam corporis, cum deserunt dicta eius facere id impedit ipsa minus molestias nam nihil numquam quaerat quis recusandae sequi ullam vero, vitae! Alias autem dolorum eos eum iure magni, nam nihil, nobis perspiciatis porro possimus quam temporibus vel! Ab accusamus dicta dolorum error harum illo ipsum magnam maxime porro possimus quaerat quam quod ratione rem rerum tempora tempore, tenetur ut veritatis vero voluptas voluptatibus?</p>
@@ -82,5 +85,6 @@
 
 
     </div>
+
 </body>
 </html>

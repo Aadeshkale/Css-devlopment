@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37c016c6-be74-454c-91e6-eda9a59e8c52" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html" afterPath="$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/15.css_Vertical navigation (aside).html" afterPath="$PROJECT_DIR$/Completed/15.css_Vertical navigation (aside).html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" afterPath="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15_CSS_Vertical_Navigation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html">
+    <leaf>
+      <file leaf-file-name="17_CSS_DropDown.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Started/17_CSS_DropDown.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="697">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -69,7 +70,6 @@
         <option value="$PROJECT_DIR$/Completed/11.css_position.html" />
         <option value="$PROJECT_DIR$/Completed/12.css_box model.html" />
         <option value="$PROJECT_DIR$/Started/14_CSS_Float.html" />
-        <option value="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" />
         <option value="$PROJECT_DIR$/Started/17_CSS_DropDown.html" />
         <option value="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" />
         <option value="$PROJECT_DIR$/Started/19_CSS_Tooltip.html" />
@@ -77,7 +77,10 @@
         <option value="$PROJECT_DIR$/Completed/13.css_display_model.html" />
         <option value="$PROJECT_DIR$/Completed/14.css_float.html" />
         <option value="$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html" />
+        <option value="$PROJECT_DIR$/Completed/img/16.css_horizontol navbar.html" />
         <option value="$PROJECT_DIR$/Completed/15.css_Vertical navigation (aside).html" />
+        <option value="$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html" />
+        <option value="$PROJECT_DIR$/Completed/16.css_horizontol navbar.html" />
       </list>
     </option>
   </component>
@@ -111,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +137,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +147,9 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Css\Completed" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="X:\web" />
     </key>
@@ -186,12 +192,13 @@
       <workItem from="1532351083295" duration="9832000" />
       <workItem from="1532364714772" duration="763000" />
       <workItem from="1532428538298" duration="5903000" />
-      <workItem from="1532438637918" duration="8501000" />
+      <workItem from="1532438637918" duration="12747000" />
+      <workItem from="1532495522582" duration="4384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66813000" />
+    <option name="totallyTimeSpent" value="75443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -244,13 +251,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Started/01_CSS_COLORS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Started/03_CSS_Borders.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
@@ -489,20 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Started/17_CSS_DropDown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -514,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="84" column="7" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -538,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -546,22 +528,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/15.css_Vertical navigation (aside).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Started/15_CSS_Vertical_Navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="459">
           <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/15.css_Vertical navigation (aside).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/16.css_horizontol navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/16_CSS_Horizontal_Navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/17_CSS_DropDown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
           <folding />
         </state>
       </provider>
