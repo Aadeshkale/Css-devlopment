@@ -2,24 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CSS Dropdown Navbar</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bootstrap/css/font-awesome.min.css">
+    <title>dropDown nav</title>
     <style>
         body{
-            font-family: Arial, sans-serif;
+            font-family: "Comic Sans MS",sans-serif;
             margin: 0px;
         }
         nav{
-            background-color: orange;
+            margin: 0;
+            padding: 0;
             overflow: hidden;
+            background: lightgreen;
         }
         nav ul {
             list-style-type: none;
-            padding: 0;
-            margin: 0;
+            margin: 0px;
         }
-        nav ul li{
+        nav ul li {
             float: left;
         }
         nav ul li a{
@@ -33,6 +32,7 @@
             background-color: orangered;
             color: white;
         }
+
         .dropdown_list{
             background-color: lightsalmon;
             position: absolute;
@@ -45,39 +45,42 @@
         .dropdown:hover .dropdown_list{
             display: block;
         }
+
     </style>
 </head>
 <body>
-
-    <!-- Dropdown Navbar -->
-    <nav>
+    <nav id="mainnav">
         <ul>
             <li>
                 <a href="#">Home</a>
             </li>
             <li class="dropdown">
-                <a href="#"><i></i>News</a>
-                <div class="dropdown_list">
-                    <a href="#">Sports</a>
-                    <a href="#">Technology</a>
-                    <a href="#">Arts</a>
-                    <a href="#">Others</a>
-                </div>
+                    <a href="#">News</a>
+                    <div class="dropdown_list">
+                        <a href="#">HTML</a>
+                        <a href="#">CSS</a>
+                        <a href="#">JS</a>
+                        <a href="#">BOOTSTRAP</a>
+                        <a href="#">AJAX</a>
+                    </div>
             </li>
             <li>
-                <a href="#">About Us</a>
+                <a href="#">Product</a>
             </li>
             <li>
-                <a href="#">Contact Us</a>
+                <a href="#">Services</a>
             </li>
             <li>
-                <a href="#">Careers</a>
+                <a href="#">Contact us</a>
             </li>
             <li>
-                <a href="#">Courses</a>
+                <a href="#">FAQ</a>
             </li>
         </ul>
+
     </nav>
+
+
 
 </body>
 </html>

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c016c6-be74-454c-91e6-eda9a59e8c52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/17.css_dropDown.html" afterPath="$PROJECT_DIR$/Completed/17.css_dropDown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" afterPath="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/20_CSS_Forms.html" afterPath="$PROJECT_DIR$/Started/20_CSS_Forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/21_Image_Gallery.html" afterPath="$PROJECT_DIR$/Started/21_Image_Gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/22_CSS_2D_Tranformation.html" afterPath="$PROJECT_DIR$/Started/22_CSS_2D_Tranformation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Started/23_CSS_3D_Transformation.html" afterPath="$PROJECT_DIR$/Started/23_CSS_3D_Transformation.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,22 +20,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="17.css_dropDown.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Completed/17.css_dropDown.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="23_CSS_3D_Transformation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Started/23_CSS_3D_Transformation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="226">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17_CSS_DropDown.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Started/17_CSS_DropDown.html">
+      <file leaf-file-name="23.css_3d Transformation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Completed/23.css_3d Transformation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="73">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -78,7 +83,6 @@
         <option value="$PROJECT_DIR$/Completed/11.css_position.html" />
         <option value="$PROJECT_DIR$/Completed/12.css_box model.html" />
         <option value="$PROJECT_DIR$/Started/14_CSS_Float.html" />
-        <option value="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" />
         <option value="$PROJECT_DIR$/Started/19_CSS_Tooltip.html" />
         <option value="$PROJECT_DIR$/Started/13_CSS_Display.html" />
         <option value="$PROJECT_DIR$/Completed/13.css_display_model.html" />
@@ -90,6 +94,17 @@
         <option value="$PROJECT_DIR$/Completed/16.css_horizontol navbar.html" />
         <option value="$PROJECT_DIR$/Started/17_CSS_DropDown.html" />
         <option value="$PROJECT_DIR$/Completed/17.css_dropDown.html" />
+        <option value="$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html" />
+        <option value="$PROJECT_DIR$/Completed/18.css_dropDownnav.html" />
+        <option value="$PROJECT_DIR$/Started/23_CSS_3D_Transformation.html" />
+        <option value="$PROJECT_DIR$/Completed/css_form.html" />
+        <option value="$PROJECT_DIR$/Completed/20.css_form.html" />
+        <option value="$PROJECT_DIR$/Started/20_CSS_Forms.html" />
+        <option value="$PROJECT_DIR$/Started/21_Image_Gallery.html" />
+        <option value="$PROJECT_DIR$/Completed/21.css_gallary.html" />
+        <option value="$PROJECT_DIR$/Started/22_CSS_2D_Tranformation.html" />
+        <option value="$PROJECT_DIR$/Completed/22.css_2D Transformation.html" />
+        <option value="$PROJECT_DIR$/Completed/23.css_3d Transformation.html" />
       </list>
     </option>
   </component>
@@ -124,6 +139,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,24 +217,29 @@
       <workItem from="1532364714772" duration="763000" />
       <workItem from="1532428538298" duration="5903000" />
       <workItem from="1532438637918" duration="12747000" />
-      <workItem from="1532495522582" duration="9796000" />
+      <workItem from="1532495522582" duration="14294000" />
+      <workItem from="1532512325305" duration="442000" />
+      <workItem from="1532514602241" duration="4885000" />
+      <workItem from="1532524297386" duration="5520000" />
+      <workItem from="1532530907492" duration="424000" />
+      <workItem from="1532533552893" duration="7157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80855000" />
+    <option name="totallyTimeSpent" value="103781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2157738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20982143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29769737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -242,51 +262,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://X:/HTML_5_Development-master/HTML_Completed_Template/25_Company_Website/25_Company_Website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Started/Practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://X:/web/PlayUI.html" />
-    <entry file="file://X:/HTML_5_Development-master/HTML_Completed_Template/25_Company_Website/25_Company_Website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Started/first.css" />
-    <entry file="file://$PROJECT_DIR$/Started/Practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Started/01_CSS_COLORS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Started/first.css" />
-    <entry file="file://$PROJECT_DIR$/Started/Practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS3_Development-master/CSS_Starter_Template/01_CSS_COLORS.html" />
     <entry file="file://$PROJECT_DIR$/CSS3_Development-master/CSS_Starter_Template/02_CSS_Backgrounds.html" />
     <entry file="file://X:/HTML_5_Development-master/HTML_Completed_Template/19_HTML_5_Aside_Element.html">
@@ -473,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Started/19_CSS_Tooltip.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -533,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,14 +515,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Completed/17.css_dropDown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="-460">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/18.css_dropDownnav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/18_CSS_Dropdown_Navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/20.css_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/20_CSS_Forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/21.css_gallary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/21_Image_Gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/22.css_2D Transformation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/22_CSS_2D_Tranformation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Started/23_CSS_3D_Transformation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/23.css_3d Transformation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>

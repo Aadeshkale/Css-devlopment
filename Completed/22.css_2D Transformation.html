@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS 2D-Transformaton</title>
+    <style>
+        div{
+            width: 300px;
+            height: 110px;
+            background-color: #3254e6;
+            font-size: 25px;
+            padding: 5px;
+            margin: 5px;
+            color: white;
+            text-align: center;
+            border: 3px solid lightgreen;
+            float: left;
+        }
+        .rotate-clockwise:hover{
+            transform: rotate(45deg);
+        }
+        .rotate-anticlockwise:hover{
+            transform: rotate(-45deg);
+        }
+        .scale_up:hover{
+            transform: scale(1,2);
+        }
+        .scale_down:hover{
+            transform: scale(0.5,0.5);
+        }
+        .skewX:hover:hover{
+            transform: skewX(25deg);
+        }
+        .skewY:hover{
+            transform: skewY(25deg);
+        }
+        .skewX-neg:hover{
+            transform: skewX(-25deg);
+         }
+        .skewY-neg:hover{
+            transform: skewY(-25deg);
+        }
+        .skew:hover{
+            transform: skew(25deg,25deg);
+        }
+        .skew-neg:hover{
+            transform: skew(-25deg,-25deg);
+        }
+        .translate:hover{
+            transform: translate(10px,20px);
+        }
+        .translate-neg:hover{
+            transform: translate(-10px,-20px);
+        }
+
+    </style>
+</head>
+<body>
+    <h1>CSS 2D Transform</h1>
+        <div>
+            <p class="rotate-clockwise">Transformation Rotate(Clock-wise)</p>
+        </div>
+        <div>
+            <p class="rotate-anticlockwise">Transformation Rotate(Anti-Clock-wise)</p>
+        </div>
+        <div class="scale_up">
+            <p>Scale-Increase</p>
+        </div>
+        <div class="scale_down">
+            <p>Scale-Decrease</p>
+        </div>
+        <div class="skewX">
+            <p>SkewX "+"</p>
+        </div>
+        <div class="skewY">
+            <p>SkewY "+"</p>
+        </div>
+        <div class="skewX-neg">
+            <p>SkewX "-"</p>
+        </div>
+        <div class="skewY-neg">
+            <p>SkewY "-"</p>
+        </div>
+        <div class="skew">
+            <p>Skew"+"</p>
+        </div>
+        <div class="skew-neg">
+            <p>Skew"-"</p>
+        </div>
+        <div class="translate">
+            <p>Translate "+"</p>
+        </div>
+        <div class="translate-neg">
+            <p>Translate "-"</p>
+        </div>
+</body>
+</html>
