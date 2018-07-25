@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Drop-down</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body{
+
+        }
+        .dropdown_btn{
+            background-color: orangered;
+            color: white;
+            font-size: 20px;
+            padding: 14px 25px;
+            border: none;
+            font-family: "Comic Sans MS",sans-serif;
+        }
+        .down_list{
+            background-color: #4CAF50;
+            position: absolute;
+            width: 148px;
+            text-align: center;
+            margin: 0px;
+            display: none;
+        }
+        .down_list ul{
+            list-style-type: none;
+            padding: 0;
+
+
+        }
+        .down_list ul li a{
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            display: block;
+            padding: 12px 25px;
+        }
+        .down_list ul li a:hover{
+            background-color: #214328;
+        }
+        .dropdown:hover .down_list{
+            display: block;
+        }
+        .dropdown{
+            float: left;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="dropdown">
+        <button class="dropdown_btn">Courses <i class="fa fa-arrow-down"></i></button>
+            <div class="down_list">
+                <ul>
+                    <li>
+                        <a href="#">HTML</a>
+                    </li>
+                    <li>
+                        <a href="#">CSS</a>
+                    </li>
+                    <li>
+                        <a href="#">JS</a>
+                    </li>
+                    <li>
+                        <a href="#">Ajax</a>
+                    </li>
+                </ul>
+
+            </div>
+
+
+    </div>
+
+
+</body>
+</html>
