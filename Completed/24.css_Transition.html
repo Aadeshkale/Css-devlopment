@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Transition</title>
+    <style>
+
+        h1{
+            font-family: "Comic Sans MS",sans-serif;
+            color: forestgreen;
+            margin: 3px;
+        }
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: orange;
+            border: 3px solid black;
+
+        }
+        #t_width{
+            transition: width 2s ;
+        }
+        #t_width:hover{
+            width:400px;
+            background-color: #69e635;
+        }
+        #t_height{
+            transition:  height 2s;
+
+
+        }
+        #t_height:hover{
+            height: 200px;
+            background-color: #69e635;
+        }
+        #t_both{
+            border-radius: 50%;
+            transition: all 2s;
+        }
+        #t_both:hover{
+            height: 200px;
+            width: 200px;
+            background-color: #69e635;
+        }
+        #t_rotate{
+            transition: 2s;
+        }
+        #t_rotate:hover{
+
+            transform: rotate(360deg);
+            background-color: forestgreen;
+        }
+        #t_timeing{
+            transition: width 2s ease-in-out;
+        }
+        #t_timeing:hover{
+            width: 300px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>Increasing width</h1>
+        <div id="t_width">
+
+        </div>
+    <h1>Increaseing Height</h1>
+        <div id="t_height">
+
+        </div>
+    <h1>Increaseing both</h1>
+        <div id="t_both">
+
+        </div>
+    <h1>Rotating</h1>
+        <div id="t_rotate">
+
+        </div>
+    <h1>Timeings</h1>
+        <div id="t_timeing">
+
+        </div>
+
+</body>
+</html>
